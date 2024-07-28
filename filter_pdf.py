@@ -31,7 +31,6 @@ result_lines = filter_lines_with_words(pdf_path, words_to_search)
 for line in result_lines:
     print(line)
 
-
 # Adding another function
 
 
